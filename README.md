@@ -2,9 +2,9 @@
 
 Custom Keras model to predict facial emotion 
 from three training classes of 
-happy
-sad
-excited
+[happy,
+sad,
+excited]
 
 ## Software Requirements
 ```
