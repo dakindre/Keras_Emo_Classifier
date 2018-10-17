@@ -14,7 +14,9 @@ Keras
 ```
 
 ## Workflow
-1. Working on getting S3 bucket with training images set up
+1. Download the following files
+```
+
 
 
 
