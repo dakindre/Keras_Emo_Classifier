@@ -1,4 +1,4 @@
-# Emotion Classifier [Keras]
+# Facial Emotion Classifier [Keras]
 
 Custom Keras model to predict facial emotion 
 from three training classes of 
