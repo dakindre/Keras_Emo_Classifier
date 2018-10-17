@@ -1,7 +1,10 @@
 # Emotion Classifier [Keras]
 
 Custom Keras model to predict facial emotion 
-from three training classes of happy, sad, excited
+from three training classes of 
+happy
+sad
+excited
 
 ## Software Requirements
 ```
